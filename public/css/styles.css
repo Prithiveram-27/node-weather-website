@@ -1,0 +1,76 @@
+
+body{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  
+  background-image:url("https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+}
+.container{
+  max-width: 400px;
+  
+  
+}
+
+input{
+  border: 1px solid #cccccc;
+  padding: 8px;
+  width: 400px;
+}
+
+button{
+  cursor: pointer;
+  border:1px solid #888888;
+  background: #888888;
+  color:white;
+  padding: 8px;
+  width: 100px;
+}
+.message{
+  color: white;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  
+  margin-top: 65px;
+  padding-left: 25px;
+  padding-right: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style:outset;
+}
+
+
+footer{
+  color: black;
+  font-weight: bolder;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  border-top: 1px  #eeeeee;
+  
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  height: 60px;
+  line-height:60px;
+  background-color: #cccccc;
+  opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
